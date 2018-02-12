@@ -1,6 +1,6 @@
 # vue-demo
 
-> A Vue.js project
+> Vue JS Demo App with Router, Bootstrap and Vuex (state manegement)
 
 ## Build Setup
 
